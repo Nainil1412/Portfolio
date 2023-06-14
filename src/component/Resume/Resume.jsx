@@ -1,4 +1,4 @@
-import React, { useContext, useState } from "react";
+import React, { useContext } from "react";
 import "./Resume.css";
 import Card from "../Card/Card";
 import Glasses from "../../image/glasses.png";

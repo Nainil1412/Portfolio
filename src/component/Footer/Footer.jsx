@@ -1,7 +1,4 @@
 import React from "react";
-import Github from "../../image/github.png";
-import LinkedIn from "../../image/linkedin.png";
-import Instagram from "../../image/instagram.png";
 
 const Footer = () => {
   const styles = {

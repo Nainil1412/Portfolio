@@ -44,13 +44,25 @@ function Intro() {
           <button className="button i-button">Hire me</button>
         </Link>
         <div className="i-icons">
-          <a href="https://github.com/Nainil1412" target="_blank">
+          <a
+            href="https://github.com/Nainil1412"
+            target="_blank"
+            rel="noreferrer"
+          >
             <img src={Github} alt=""></img>
           </a>
-          <a href="https://www.linkedin.com/in/nainiloza" target="_blank">
+          <a
+            href="https://www.linkedin.com/in/nainiloza"
+            target="_blank"
+            rel="noreferrer"
+          >
             <img src={LinkedIn} alt=""></img>
           </a>
-          <a href="https://www.instagram.com/nainil_14.12/" target="_blank">
+          <a
+            href="https://www.instagram.com/nainil_14.12/"
+            target="_blank"
+            rel="noreferrer"
+          >
             <img src={Instagram} alt=""></img>
           </a>
         </div>
